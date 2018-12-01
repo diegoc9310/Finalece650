@@ -1,0 +1,14 @@
+--- # Personal information
+- student1: 
+email: dcepeda@uwaterloo.ca
+first: Diego
+last: Cepeda
+student: 20763269
+watiam: dcepeda
+- student2: 
+email: dwadeane@uwaterloo.ca
+first: Devon
+last: Deane
+student: 20788525
+watiam: dwadeane
+...
